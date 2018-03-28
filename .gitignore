@@ -3,3 +3,4 @@ __pycache__
 *.pyc
 empathy-model/*[0-9]*.ser.gz
 env
+venv
